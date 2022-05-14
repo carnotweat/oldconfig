@@ -1,0 +1,8 @@
+#+title: %^{Name}
+#+date: <%<%Y-%m-%d>>
+#+keywords: draft
+#+setupfile: /etc/nixos/org-templates/post.orgcaptmpl
+
+%?
+
+#+INCLUDE: "../disquss.inc"
